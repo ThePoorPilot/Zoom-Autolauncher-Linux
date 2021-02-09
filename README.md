@@ -11,6 +11,7 @@ In addition, this script currently requires you to have a terminal window open w
 
 # To Install and Use
 There are two ways to download this script
+
 Either use git to clone the repository:
 
 <code> git clone https://github.com/ThePoorPilot/Zoom-AutoLauncher-Linux.git </code>
