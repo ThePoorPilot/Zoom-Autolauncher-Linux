@@ -14,7 +14,7 @@ There are two ways to download this script
 
 Either use git to clone the repository:
 
-<code> git clone https://github.com/ThePoorPilot/Zoom-AutoLauncher-Linux.git </code>
+<code> git clone https://github.com/ThePoorPilot/Zoom-Autolauncher-Linux.git </code>
 
 or download the raw file for zoom-autolauncher.sh
 
