@@ -20,7 +20,7 @@ or download the raw file for zoom-autolauncher.sh
 
 Make your needed changes (add zoom links and times) to the script
 
-In terminal run ./zoom-autolauncher.sh on the same day as the meeting. Alternatively, you can add the sh script to your desktop for easy access by just clicking on it.
+In terminal run <code>./zoom-autolauncher.sh</code> on the same day as the meeting. Alternatively, you can add the sh script to your desktop for easy access by just clicking on it.
 
 # Credits
 Credits for portions of this script go to all the people on forums who I took bits and pieces from. Unfortunately, I do not remember who exactly those people are at this point.
