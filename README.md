@@ -1,3 +1,5 @@
+THIS PROJECT IS NOW ARCHIVED. There is still room for imporvements, but I don't want to invest time in this. I've moved on to other projects. This script was basically just getting my feet wet with shell scripts.
+
 # Zoom-Autolauncher-Linux
 A simple shell script to automatically launch Zoom calls at set times on Linux.
 
